@@ -1,2 +1,4 @@
-# codebuild-for-lambda
-This Repository contains the codes for CodeBuild project.
+# AwsDevOps: Code Build for AWS Lambda
+Description / Steps:
+
+Tools: Github, CodeBuild, CodePipeline, Lambda, S3
